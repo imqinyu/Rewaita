@@ -98,7 +98,7 @@ msgstr "默认"
 
 #: src/widgets/window_control_box.py:25
 msgid "Colored"
-msgstr "已着色"
+msgstr "着色"
 
 #: src/widgets/window_control_box.py:26
 msgid "MacOS"
@@ -427,7 +427,7 @@ msgstr "Rewaita 也兼容 Firefox 的 Gnome 主题，但窗口控制按钮不会
 
 #: src/widgets/guide_dialog.ui:161
 msgid "Get it"
-msgstr "明白"
+msgstr "获取"
 
 #: src/widgets/guide_dialog.ui:161 src/widgets/guide_dialog.ui:236
 #: src/widgets/guide_dialog.ui:277 src/widgets/guide_dialog.ui:295
